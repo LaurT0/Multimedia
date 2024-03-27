@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+iframe,video{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding: auto;
+    border-radius: auto;
+}
+header{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    
+    }
+h2{
+    border: 3px solid black;
+    text-align: center;
+}
+
+#v1 {
+    border: none;
+}
